@@ -1,0 +1,5000 @@
+[
+  {
+    "score": 0.05555555555555555,
+    "latency": 6.191402,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 7.578332,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.796957,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.235752,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.648705,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.811891,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.367799,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.950319,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 13.337319,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.379892,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 7.536216,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.089567,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.453266,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.442319,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.049015,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 11.426683,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.471157,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 10.126231,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 23.566166,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.698225,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 7.969249,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 6.249021,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 6.158388,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.7464,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.595579,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 7.314566,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.246063,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.373169,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.197899,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 12.235846,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 19.642018,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.22733,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 5.78378,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.893248,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08771929824561403,
+    "latency": 13.777083,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 6.721287,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.424697,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 5.719385,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.727837,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09259259259259259,
+    "latency": 6.168667,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 7.740006,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 9.449751,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.783312,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.066766,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 7.809984,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 9.300536,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 7.953713,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.00083,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 23.849054,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 7.900957,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 10.135512,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.121918,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 11.333906,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 20.050145,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 20.010335,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 11.746212,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 12.414828,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.998284,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 11.19719,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 9.248908,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.563112,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.204857,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.061656,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 20.766853,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.77782,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.621949,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.240121,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 8.824843,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 8.277694,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 15.59324,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 20.280781,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 8.542179,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 7.358974,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 7.407385,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 11.185593,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 13.763847,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.116088,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.20512820512820512,
+    "latency": 6.345643,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 7.723373,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.090019,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 9.60578,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 29.211318,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 6.691242,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.574267,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.85084,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 6.276456,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.36666666666666664,
+    "latency": 15.947838,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 18.353099,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.22455,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.361483,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 7.764869,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 26.678199,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 34.730673,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 17.029583,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.154809,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.536803,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 6.595949,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.952213,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.727617,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 13.747891,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.454249,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 13.713905,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.990063,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 9.226089,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.428622,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 11.493465,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 16.668635,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 6.424099,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 5.060011,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 9.48292,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 18.40569,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.177952,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.072025,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.853841,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 29.435946,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.500356,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.17487,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.41589,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.222857,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.916728,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.51112,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.886156,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 8.665532,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 27.37643,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.603714,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 5.471222,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 24.571463,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 13.464993,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.623879,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 15.038595,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 17.182636,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.38095238095238093,
+    "latency": 11.863013,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 41.223064,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.621087,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.775401,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 36.116686,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.507515,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.147521,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 5.186293,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.895076,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.801133,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 14.252838,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 13.449069,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.915746,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 15.991223,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 11.216781,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 7.92351,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 16.623273,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 7.817156,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 9.526542,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08888888888888889,
+    "latency": 13.040731,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.743206,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 16.146228,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.612903,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.50652,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.649515,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.038046,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 5.527159,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 10.631373,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 9.975967,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.68802,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.615197,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.12121212121212122,
+    "latency": 8.581108,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 13.582733,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 7.432119,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.15103,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.25318,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 18.236304,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 7.1752,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 12.723174,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.758443,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.218296,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.111134,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.905969,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 6.687062,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 10.178111,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 9.099221,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.478755,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 17.825568,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 15.81559,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 25.205522,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 10.384056,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.609926,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 16.433041,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2857142857142857,
+    "latency": 7.155257,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 10.359789,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.952646,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 33.501862,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 21.683305,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 11.202178,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.801559,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 22.484225,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 15.705155,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 17.699346,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.845272,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.866096,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2857142857142857,
+    "latency": 15.135766,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 15.947814,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0625,
+    "latency": 11.392598,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 13.529553,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 9.829837,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.231514,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 9.16866,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 12.155945,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 6.582598,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.11534,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0625,
+    "latency": 23.347018,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 15.945494,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.28888888888888886,
+    "latency": 9.955004,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2916666666666667,
+    "latency": 6.652335,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.853537,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 6.574521,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.787999,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 10.172479,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 19.881394,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 14.841866,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 17.780935,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 11.054564,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 9.265982,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 7.87068,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.138682,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 22.237164,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.740944,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.527961,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.908957,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 19.579788,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.064702,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 7.34087,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05263157894736842,
+    "latency": 18.389084,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.31474,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.16002,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 9.224762,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 9.849439,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.558524,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.075051,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 8.731985,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.594927,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.547323,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 5.590051,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.019213,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.690049,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 15.173029,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 7.285616,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.455002,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 7.592583,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 10.401773,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.053642,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.867096,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.276761,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 13.726834,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.904095,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 6.546182,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.616188,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 19.136656,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.127126,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 7.009155,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 7.733126,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 8.874619,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 6.800821,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 7.233313,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 20.624796,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 6.011665,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.532227,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 11.216266,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 9.503167,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.513763,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.50535,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 10.5866,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 14.148313,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 10.956068,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 11.840142,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 7.973436,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.746502,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 10.642243,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 9.5744,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.15151515151515152,
+    "latency": 9.188938,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.68724,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.23077,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 19.954949,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 11.539114,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.050342,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 11.025461,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 9.040118,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.420346,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.148565,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.21212121212121213,
+    "latency": 12.799497,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 5.539387,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 14.539612,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 8.869045,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.925857,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1388888888888889,
+    "latency": 9.921438,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.740346,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.061403,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 6.936197,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 18.927268,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 10.76427,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 21.335488,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.054137,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.562154,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.187911,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 18.328082,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 14.138557,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 7.799765,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.54287,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 18.315635,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 13.629435,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 30.270852,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 23.85643,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 7.730255,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.292089,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.485643,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05263157894736842,
+    "latency": 8.023361,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 11.134191,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 7.348068,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 17.971644,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.609289,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.254516,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 12.352546,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 11.270681,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.637635,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.42857142857142855,
+    "latency": 7.028683,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 24.914287,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 6.26476,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 24.065404,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.059401,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 14.902699,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 11.261396,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.723532,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 11.250822,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.004589,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 30.819207,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.632167,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 16.743621,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.78032,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 29.51256,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.524685,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 10.162246,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.180023,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.95931,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 13.420111,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 14.602411,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.668228,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 9.438458,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.613135,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 14.531834,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.499968,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.321519,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.302434,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 11.393788,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.771252,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 8.382675,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.000955,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.300921,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 10.10289,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2857142857142857,
+    "latency": 13.63124,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.15151515151515152,
+    "latency": 11.962677,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 10.312759,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 6.012576,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 11.808133,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 8.738646,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 28.148954,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 5.993632,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.311235,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.853441,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 10.080181,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 15.553025,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 6.745489,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 10.659764,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.861619,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 14.694617,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 6.942493,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.434636,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.288244,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.762723,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 5.515976,
+    "mode": "CHAIN"
+  },
+  {
+    "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.701707,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 8.346246,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09803921568627451,
+    "latency": 6.984204,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.192239,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.007127,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 7.506146,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.294603,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 14.528926,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 7.496509,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 7.435112,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.98296,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 12.372862,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 25.618062,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.568375,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.069466,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.238827,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.264926,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 20.90749,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.238958,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 14.708273,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 16.031618,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 8.365498,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 13.27992,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 12.967003,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 12.07267,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 11.631972,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1568627450980392,
+    "latency": 16.40017,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.796022,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 15.555614,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 7.011482,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 15.772971,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 23.509762,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 23.960014,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 11.726573,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 17.94669,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.59526,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 8.491895,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 10.674183,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05263157894736842,
+    "latency": 10.836325,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.889139,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.960549,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 8.738773,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 12.182776,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.888275,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.224849,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05263157894736842,
+    "latency": 6.437496,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.786865,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.49171,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.400515,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.599774,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 5.59359,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 9.054275,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 10.74294,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 16.210157,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.032658,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.595326,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 6.726937,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.626894,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 10.015669,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 16.493836,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 23.031561,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 9.055441,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 19.127985,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.714135,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.488204,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.947081,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 9.834179,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.647849,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.307368,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.087276,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 17.915765,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.179834,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 10.45287,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.893632,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.804959,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.987989,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 5.28056,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 6.678774,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 9.046473,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 7.448758,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.025522,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 6.149924,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.282431,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.739447,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 8.455075,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 10.519807,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 8.006541,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 13.051792,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.557148,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 14.311205,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.124576,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 5.918384,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 11.491622,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 8.487705,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2857142857142857,
+    "latency": 11.997121,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 7.99279,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 14.06394,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 5.884631,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 17.730045,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.058056,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 9.824387,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.029592,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.000687,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 16.703193,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.582591,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 7.094361,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 10.024328,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 11.187572,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.617085,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.40006,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 7.807922,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.858662,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 7.030422,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.305613,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 24.748474,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 17.561285,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.225206,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 9.331272,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 8.288824,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.787469,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 11.296501,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.25,
+    "latency": 9.778854,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.336553,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 17.906024,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 6.659177,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.01618,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 9.024882,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 7.927062,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 18.934188,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.682211,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.162607,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.138029,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.355563,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.390567,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.663423,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.133092,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 6.461429,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 12.507183,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.024556,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 6.854428,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 5.174061,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 10.256239,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 10.562754,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.25,
+    "latency": 18.483113,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 17.493588,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 12.861049,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.693883,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.419697,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 11.872771,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.027685,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.669368,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.747177,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 14.563991,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 9.318098,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.158154,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 11.981445,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.25,
+    "latency": 9.578081,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.651282,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 12.21888,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.843812,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 6.971065,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 16.558259,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 6.799005,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 7.693867,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.838899,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.853819,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 10.488883,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.669493,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.419298,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.38095238095238093,
+    "latency": 12.436968,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 6.659174,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 11.77782,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 9.536781,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 29.242168,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 12.728221,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 9.882178,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 9.571634,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 12.651645,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.457014,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.412448,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 9.726578,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.970476,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08888888888888889,
+    "latency": 11.523891,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.616466,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 16.296716,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.278553,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.27450980392156865,
+    "latency": 8.063378,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 20.880492,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 16.718833,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.333611,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05263157894736842,
+    "latency": 14.205196,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 10.066261,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 7.999287,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 8.131959,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 21.792312,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 5.902807,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 11.857298,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 15.428455,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08888888888888889,
+    "latency": 7.41071,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.359187,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.722243,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 18.044061,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 6.809134,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.545171,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.21428571428571427,
+    "latency": 8.930177,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 13.1478,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 11.80675,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.424233,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.011782,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 10.993112,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 7.223831,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.497372,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.572893,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 7.318178,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.76597,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 10.674813,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 18.262757,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 12.923429,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.16718,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1388888888888889,
+    "latency": 10.256609,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 11.883715,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14583333333333334,
+    "latency": 11.102944,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 6.738089,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.115273,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 8.68654,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.490457,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.667218,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 11.862419,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.346003,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 8.253231,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 6.469441,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 5.624166,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 22.075922,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 16.855471,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 10.099435,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.256764,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 13.857382,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.670783,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.505912,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.575663,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 11.134509,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.599872,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 14.409581,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19444444444444445,
+    "latency": 13.28577,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 15.540577,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.059238,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19444444444444445,
+    "latency": 8.964296,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.63456,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 11.047795,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.824926,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 14.395075,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 9.382556,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 9.334929,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 8.253979,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 6.486762,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.511862,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 6.064257,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 21.567123,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 7.54854,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.458132,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.629939,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.08037,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 14.305388,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 13.331535,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.957753,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.12280701754385964,
+    "latency": 10.063877,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.151515,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.055105,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 10.62289,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 5.922443,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.25925925925925924,
+    "latency": 13.648182,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.496733,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 6.539079,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 6.499256,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.742019,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.724488,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 8.470594,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 18.625659,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2962962962962963,
+    "latency": 9.413899,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 9.462593,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.958199,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.367338,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 7.706107,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.210709,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.823176,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.187744,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.915971,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 9.707386,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 16.288961,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 6.377145,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0625,
+    "latency": 20.968112,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.10416666666666667,
+    "latency": 15.287136,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 16.996127,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23333333333333334,
+    "latency": 14.906507,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 11.003639,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 10.03797,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.460276,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.59165,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 7.10444,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.174295,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 8.920308,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.369932,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 9.349334,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.749571,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 9.493368,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 10.454072,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.981425,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.057455,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.788857,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 16.212338,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 17.633973,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.4444444444444444,
+    "latency": 9.268203,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 10.533321,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 7.769823,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.953529,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 7.074383,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 11.568086,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.242003,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 6.379326,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.054317,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 12.195235,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.81263,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.798661,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.48667,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.28179,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 8.212802,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 17.185222,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 24.924125,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.332154,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 5.243439,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 26.560734,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 19.819399,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 9.765049,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.502371,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.299147,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2619047619047619,
+    "latency": 9.098592,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 7.009852,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 11.100014,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 7.897036,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.25,
+    "latency": 8.176957,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 7.380621,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.174952,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 5.293187,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.887455,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.151525,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.844309,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.188545,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.399646,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23333333333333334,
+    "latency": 10.290101,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 24.729184,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 11.685049,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 15.436004,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 21.881926,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 13.538115,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 11.073326,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.31355,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 13.293273,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 10.018646,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 6.018184,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.448231,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.804031,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 18.840914,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 8.009535,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.872931,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 7.288441,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 8.42196,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.467889,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 6.856674,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 9.634019,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 7.053422,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.46081,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 22.932317,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.06582,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 8.20366,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.553303,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 15.441888,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 10.461549,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2727272727272727,
+    "latency": 6.665861,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.99546,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.576178,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 7.049054,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.306355,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 8.800163,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 20.703333,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 5.915008,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 9.202899,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.29775,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.291645,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 15.065248,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 9.757095,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 7.819443,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.21212121212121213,
+    "latency": 9.503461,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 12.967798,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.3076923076923077,
+    "latency": 6.690763,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 7.50392,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.753627,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 12.45365,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.600492,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 17.393132,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.787179,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 15.632766,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 12.447722,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 8.465103,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 10.384455,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 11.89649,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.375,
+    "latency": 7.869672,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 6.415856,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 13.832707,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.958603,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.465111,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 10.732954,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 32.939636,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 10.180382,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.191909,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 7.631063,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.09667,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.194963,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.847701,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 6.647921,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 13.378407,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.354908,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 15.040582,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 9.770333,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.701229,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 9.167227,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 16.384218,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.393804,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 14.788106,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.064236,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.394445,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 10.450838,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.736073,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.800424,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.907087,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.507028,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 11.369428,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 8.311934,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.614656,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 9.759275,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.792249,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 18.70481,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.08278,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 9.484006,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.973754,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 6.299469,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.082363,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 8.478953,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.025993,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 14.899066,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.83106,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.154085,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.692966,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.769733,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 16.811599,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 13.111447,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 17.545595,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.639368,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.85689,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.545024,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 8.028165,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 12.212968,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 16.170839,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.363667,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 16.559925,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 9.307693,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.204259,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 6.647856,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 13.981205,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 8.725959,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 26.107309,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.836019,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.143107,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.868148,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 11.572942,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 6.595069,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.624264,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.033757,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 28.611056,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 14.668545,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 12.405885,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 9.976967,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 10.09982,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 17.521445,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.560858,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.25925925925925924,
+    "latency": 13.20785,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.473232,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.047509,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 16.378199,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.964685,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.00485,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 18.162525,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 11.477971,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 11.962784,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.360626,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.6634,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 11.688711,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.95406,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 11.636283,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 15.734625,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.045493,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.502081,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 14.040057,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 14.22693,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 19.424473,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 14.380758,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.142035,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.925125,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.343416,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 9.387858,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.574444,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.856137,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.463933,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.36113,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.120152,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.83555,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 15.463037,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 8.010195,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 13.516139,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 5.2405,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.806296,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.361554,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 8.467414,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 12.496918,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 5.839634,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.463062,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 6.103536,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.42554,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.202965,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.053647,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.234685,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 25.223344,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 11.537332,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 6.76604,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 5.97189,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.260176,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.707254,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 11.760256,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.53452,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 20.610045,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.422367,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.784228,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 8.01891,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 13.353022,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 13.695486,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 15.61912,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.078938,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 8.298085,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.804587,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.06346,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1,
+    "latency": 16.683894,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 18.309041,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.25,
+    "latency": 10.765317,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 11.060673,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.950805,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 13.059624,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 10.200655,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 5.833627,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 16.151863,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 11.622043,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 19.913605,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.878671,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 13.049618,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.35605,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 10.337851,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 46.018904,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 8.672049,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.125,
+    "latency": 22.549258,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 7.429784,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 9.141902,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 10.600579,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 10.070596,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.331877,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 16.024577,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.568244,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.12121212121212122,
+    "latency": 8.592339,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.905715,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 12.300465,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 10.963192,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 11.243214,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.469503,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 22.932821,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 12.587544,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 6.058394,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.24235,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 22.730038,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.640032,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 6.818481,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.700678,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 16.500499,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.481419,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 22.201292,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.574196,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 10.27317,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 9.319988,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.695356,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 8.934938,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.188079,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.340834,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 18.189652,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.951377,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.089058,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 18.739672,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 9.319239,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.202907,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 10.673789,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.883526,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 24.363994,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.84775,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2857142857142857,
+    "latency": 9.243873,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 15.194985,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.867864,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 11.329727,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 8.723607,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.1794871794871795,
+    "latency": 8.585083,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.61386,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.767881,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.132112,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 14.220185,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.155169,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.494665,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 7.113049,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 51.006149,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.414991,
+    "mode": "CHAIN"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.962035,
+    "mode": "CHAIN"
+  }
+]

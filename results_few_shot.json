@@ -1,0 +1,4994 @@
+[
+  {
+    "score": 0.06666666666666667,
+    "latency": 5.820814,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 7.120987,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 7.746429,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.234614,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 5.676128,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 13.886885,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 10.365812,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.646075,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 16.330153,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.749908,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 12.340805,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 15.859853,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.092717,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.269077,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.49037,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.576277,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.12121212121212122,
+    "latency": 12.715502,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.171354,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 14.803051,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 13.247942,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 12.009922,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 26.526987,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.221303,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2962962962962963,
+    "latency": 19.506047,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 14.236461,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.610637,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.933388,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 8.149988,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.025818,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.89713,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 8.298505,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 18.52418,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.171416,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 18.265777,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 8.884229,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 9.152892,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 15.127411,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.522243,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 10.193423,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.347822,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 13.551408,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 12.629162,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 19.034046,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09259259259259259,
+    "latency": 9.549118,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 9.76221,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.661129,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 10.440825,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 8.787425,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.224098,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 16.569223,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 27.489205,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.517241,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1388888888888889,
+    "latency": 30.08323,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 18.326257,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 19.484493,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 10.974393,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.70382,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.799153,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 13.397587,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 8.973542,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.19047,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 9.766778,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 10.659708,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 13.783702,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.244977,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.382287,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.854996,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 11.424662,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.044976,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.464264,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 11.140355,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 23.673231,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 11.448053,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.138209,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 13.452764,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.222625,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.899726,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20512820512820512,
+    "latency": 11.860307,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 11.519815,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 16.90782,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 10.052983,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 8.471426,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 9.211916,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 6.715599,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.004216,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 9.130513,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 16.986978,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 11.581309,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.249794,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.356431,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 21.998611,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 26.592127,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 12.718893,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 9.594191,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 36.798786,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 16.158995,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 7.880961,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 11.997339,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 23.319321,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 12.107354,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.2386,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 19.998901,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.242331,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.384172,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 10.753433,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 9.361666,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 49.629781,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 25.066661,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.57209,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.494798,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 15.162502,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 22.028687,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.005658,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.043598,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 7.585543,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.30635,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.877978,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.377747,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14035087719298245,
+    "latency": 26.358,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 23.061827,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.422277,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 10.497113,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 12.290436,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 8.611692,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.016645,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 34.494425,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.767174,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 8.757105,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 22.423,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 6.187976,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.669834,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 12.648681,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.613421,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 14.135448,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 13.89064,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 11.188846,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.123849,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.368982,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 5.77952,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 10.47659,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.949035,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 10.15703,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 19.979448,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 13.390799,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 11.118663,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.628084,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.735796,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 26.474196,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 25.287548,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.389635,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 13.137813,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 35.680973,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.874402,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 23.000716,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 15.495401,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 23.756508,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 21.499437,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 25.218234,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 21.554745,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.551125,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 10.257749,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 9.856367,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 16.755766,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 6.764038,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 11.610292,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 15.246387,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 10.954323,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 6.785379,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.786697,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.833356,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.222714,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 10.64895,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 9.076778,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08771929824561403,
+    "latency": 5.269277,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 17.075166,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 42.067543,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 26.962333,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 9.430195,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 6.919835,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 7.088544,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 51.588468,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.524953,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 5.25394,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.00296,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 11.629957,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 11.164015,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 20.593596,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 6.950928,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.28362,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.621455,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 38.199021,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 5.369732,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.799783,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 18.239338,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 13.103083,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.235586,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.17543859649122806,
+    "latency": 20.902746,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.890725,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 14.717386,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 20.865203,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 10.39148,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 10.519497,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.682719,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 9.545926,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.657186,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.949158,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 10.870543,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.7584,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 7.700395,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 6.751434,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 6.488655,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 24.1643,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 6.722481,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 13.936938,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 49.3729,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.700696,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 6.839465,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 47.155686,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3888888888888889,
+    "latency": 7.801088,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 14.197367,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2,
+    "latency": 10.228809,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.813252,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.603079,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 25.608913,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 42.273764,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.182277,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.780395,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 13.087365,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 10.785134,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 9.949031,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 10.102782,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 9.979396,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.252777,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.600399,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 8.975322,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 21.025161,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 6.787095,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 12.734039,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.184829,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 29.166239,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 8.228168,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.378344,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.690619,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 31.667559,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 38.993187,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 31.210711,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 29.761217,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.738116,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 28.333371,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19444444444444445,
+    "latency": 33.82445,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 8.318364,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.142085,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14814814814814814,
+    "latency": 19.86718,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 30.061529,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.832441,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 7.202481,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 20.805428,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 17.214749,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 12.522428,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.168007,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.70243,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 21.121696,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 9.371082,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 10.842904,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 7.914036,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.653116,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 19.839575,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.60415,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 13.111588,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 5.420686,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.153139,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 10.147615,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 47.477319,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 6.56501,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23333333333333334,
+    "latency": 37.684454,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.35622,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 16.750526,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 11.264589,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 6.910639,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.11904761904761904,
+    "latency": 8.441558,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 10.42871,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 28.248723,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.854911,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 19.639382,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1388888888888889,
+    "latency": 37.425349,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 13.724665,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 6.579664,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 14.225092,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 15.262256,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.322152,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 9.83631,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.139267,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 20.730403,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.555183,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08771929824561403,
+    "latency": 14.319476,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 6.59992,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 19.514894,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 13.626417,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.11764705882352941,
+    "latency": 14.276319,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 9.883423,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.26666666666666666,
+    "latency": 8.840837,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 12.57477,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 13.811342,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 21.039187,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.476166,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 10.536357,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 9.36785,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 8.790608,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 15.426401,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 39.505948,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 9.231797,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 11.593966,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 16.997354,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.941678,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.04823,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 6.080299,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 19.464563,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.549252,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.789571,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 13.324995,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 5.353645,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.234364,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 17.12517,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 14.847255,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 9.212922,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.821184,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 9.879082,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 7.678236,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.292423,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.306988,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 17.469607,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 13.838026,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2631578947368421,
+    "latency": 21.46175,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.659567,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.467105,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 7.564213,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 13.959599,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.905949,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.451496,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.360044,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 23.275476,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 17.428229,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 9.120211,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 9.806664,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 26.625605,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 26.453012,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 25.065165,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 13.538571,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 12.790418,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 26.333605,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.701591,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 9.429103,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 17.933091,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 15.097779,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.92555,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 19.660118,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 8.523979,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 7.854321,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.311655,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 18.113518,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 11.891524,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.15555555555555556,
+    "latency": 34.523733,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 7.685451,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 10.900423,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 19.17761,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.903094,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 5.638325,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 10.024057,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 19.021226,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.551091,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 14.721615,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.339891,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.13333333333333333,
+    "latency": 21.062646,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.881694,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 8.212174,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 10.824042,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.948156,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09803921568627451,
+    "latency": 10.262057,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.21212121212121213,
+    "latency": 11.22707,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 14.782448,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 43.348755,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 9.466217,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.275792,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 16.241819,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.210119,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 7.903374,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.075878,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.931597,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 22.501175,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 12.667228,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.365307,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 29.14946,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 12.673455,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 21.60933,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.707935,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 15.311258,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 5.936019,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 8.34439,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09803921568627451,
+    "latency": 13.165216,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.177285,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 34.771284,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 5.760733,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.587492,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.315365,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 8.596583,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 21.426628,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.17699,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.59298,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 16.6106,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07017543859649122,
+    "latency": 19.558772,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.12280701754385964,
+    "latency": 15.602976,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.38095238095238093,
+    "latency": 9.446384,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 16.230331,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 13.705087,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.033914,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2916666666666667,
+    "latency": 7.029368,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.024569,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.10526315789473684,
+    "latency": 12.233177,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 23.731813,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07017543859649122,
+    "latency": 13.533274,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 24.734346,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.986,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.758421,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 8.126456,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.596162,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.86111,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 16.721823,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.804811,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.266453,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 8.795135,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19444444444444445,
+    "latency": 9.510746,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 23.021234,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.534412,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 9.22958,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 11.928937,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 6.814612,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 7.754305,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09259259259259259,
+    "latency": 20.980078,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 12.546702,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 16.966398,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.10256410256410256,
+    "latency": 8.653389,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 53.733013,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.628129,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 12.826814,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.4166666666666667,
+    "latency": 22.833439,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 12.205681,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.423738,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.051808,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.135874,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 13.910646,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 7.06575,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 7.951161,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.112584,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 6.509037,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.31256,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 51.141345,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.565886,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 17.461864,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 6.95891,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 9.39885,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.160972,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 20.993213,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.37777777777777777,
+    "latency": 7.398863,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.475798,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 40.775557,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 9.60953,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 9.459942,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.405396,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 29.076543,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 15.623815,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0625,
+    "latency": 12.332861,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 7.762052,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 23.103081,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.036835,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 19.889158,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 35.904398,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 28.152078,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 22.690407,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 6.977384,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09259259259259259,
+    "latency": 14.357654,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 13.365016,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 8.595405,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.738098,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 15.303896,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.369664,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 15.407885,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 16.288208,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.664164,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 11.508987,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 24.32689,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.615586,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.116553,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 13.16338,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.161423,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 10.349596,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.260862,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 14.274163,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 23.934674,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 9.320376,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 22.251519,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 8.0894,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.400095,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.699454,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 11.602273,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.036211,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.25,
+    "latency": 46.681392,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 11.989264,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 39.106563,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.761718,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.642257,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.603986,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 21.15411,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1794871794871795,
+    "latency": 12.696493,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.173694,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 46.280469,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 9.45309,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 11.167298,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.916078,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 8.711971,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.844704,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 31.189679,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07017543859649122,
+    "latency": 9.017558,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 8.489413,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 16.103625,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 27.920745,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.240517,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.213147,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.530046,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.166279,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 22.883535,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 35.351154,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 19.107509,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.119461,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 22.645284,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.922778,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0784313725490196,
+    "latency": 12.273703,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 5.898074,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 20.713515,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 27.244322,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 10.327112,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.437597,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 10.974452,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.31319,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.403023,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.902236,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 23.316136,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.426012,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.500866,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 12.768145,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 10.1988,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.285693,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.104012,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.456882,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2916666666666667,
+    "latency": 15.572524,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 50.577487,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 38.606039,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 8.867371,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.455753,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.648195,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 30.163747,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.960213,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.354801,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.020472,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 9.440391,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05263157894736842,
+    "latency": 17.710061,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 23.328106,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.282131,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 11.907311,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.598927,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.274673,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 43.875129,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 51.312256,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.839792,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 7.478714,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 12.619137,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 19.230513,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 10.000295,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 21.726353,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.866436,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 8.878787,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 21.416096,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0625,
+    "latency": 14.497709,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 10.278378,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 19.285983,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 22.966898,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.765637,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.11904761904761904,
+    "latency": 24.087545,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.579939,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.798005,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 17.029672,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 10.224596,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 7.14595,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 14.007382,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.981783,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 9.170355,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.861185,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0625,
+    "latency": 10.746521,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 12.205205,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.665322,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.11764705882352941,
+    "latency": 20.227828,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.106654,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 23.988622,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.233214,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 10.176609,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 9.721063,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 5.407815,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 8.252583,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 37.284938,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.375,
+    "latency": 12.933026,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.618934,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 13.428952,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 68.333403,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.26666666666666666,
+    "latency": 57.585375,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.863292,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.423377,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.493026,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 12.706932,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 14.76999,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.555112,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 12.346431,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.860445,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 44.609973,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 22.534396,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.206688,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 14.453198,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.575074,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.058893,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 17.683146,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 12.383322,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.707336,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.204639,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.734492,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.40211,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 15.588342,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 8.370723,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 34.211564,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.467652,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0625,
+    "latency": 21.326487,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 9.316041,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 55.708236,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.409042,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 12.097519,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.499909,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 32.980158,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.30872,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 16.346328,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 48.482236,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 11.606383,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 6.654096,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 18.877257,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.891559,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 8.128664,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 9.160272,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.879655,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 10.451997,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 34.743092,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 22.79621,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 11.474214,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.014113,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 11.031381,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.885687,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.485227,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.540411,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.616165,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 10.562685,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.967018,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.92334,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.126823,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.256599,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 13.404072,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 11.23476,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 45.377144,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 7.152904,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 15.801659,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 13.167023,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 9.347056,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 14.984697,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 47.300432,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 16.008398,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23809523809523808,
+    "latency": 14.105206,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 22.711918,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 33.183116,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 13.101822,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 7.359651,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 12.072196,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 9.995905,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.096352,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.499055,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 16.323905,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.693639,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.4074074074074074,
+    "latency": 13.633948,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 16.884091,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.088407,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 16.078649,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 29.439719,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 9.504789,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.716264,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.621165,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 34.462698,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.914675,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 20.650278,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 26.184965,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2916666666666667,
+    "latency": 19.358857,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 24.321816,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0625,
+    "latency": 19.702701,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 15.252723,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 16.645505,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 28.624684,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 26.19188,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 31.752071,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 47.805134,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 42.30736,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 43.575582,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 18.528517,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.773252,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 20.688874,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.146681,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.943014,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 9.636189,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 32.037912,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 8.599844,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 9.431174,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.150383,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 15.67899,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.967238,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 26.338986,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.012532,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 21.975252,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.327473,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 35.990987,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 15.498241,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 7.902705,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 9.130223,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 27.51688,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 19.359489,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.18518518518518517,
+    "latency": 24.977328,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.184454,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3611111111111111,
+    "latency": 17.98628,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 21.513683,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.892114,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 8.227832,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 18.632326,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 22.304702,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 9.862689,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 32.541026,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.503572,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.125,
+    "latency": 19.425536,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.472114,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 13.511118,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.842823,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 23.808361,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 12.102654,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 12.918612,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 25.169362,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 12.142849,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 35.91061,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.13725490196078433,
+    "latency": 14.575595,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 7.847953,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.44607,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 31.891133,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 7.574029,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.741427,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 7.63623,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 23.350131,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 15.291238,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.120426,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 7.919071,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 12.145083,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.24242424242424243,
+    "latency": 20.013694,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09090909090909091,
+    "latency": 7.871806,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.15384615384615385,
+    "latency": 14.193168,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.404562,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 9.323292,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 10.720613,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 11.719272,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 32.088537,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 16.763183,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 24.842607,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.107236,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 35.235008,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 23.338598,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 25.260295,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.25,
+    "latency": 19.936613,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 30.51221,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.251157,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.058823529411764705,
+    "latency": 37.086522,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 11.099492,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 13.39712,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 10.00457,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.306872,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 19.306113,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.011601,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.15151515151515152,
+    "latency": 43.520379,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 40.01263,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0625,
+    "latency": 23.859262,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 13.649331,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 10.423705,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 17.566734,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 21.301409,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 15.928078,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 10.81765,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 15.036239,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 8.806435,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.486313,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 49.701809,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.15151515151515152,
+    "latency": 40.943614,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.57234,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.062167,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 12.558184,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 28.196354,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.133721,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 9.228951,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 10.377855,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 11.356587,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 8.424251,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 13.706337,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 11.685315,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 29.329747,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 42.005963,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 24.795006,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 6.786488,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.717314,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 11.61853,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 16.332984,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 5.373188,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 56.509303,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.662755,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 20.043795,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 19.910251,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 15.541387,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 62.719041,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 11.962541,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 57.294009,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06060606060606061,
+    "latency": 50.315542,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2857142857142857,
+    "latency": 7.242924,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 17.452072,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 13.394271,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 16.606529,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 5.865451,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.786562,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 55.222537,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 14.47603,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 11.146708,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 30.478486,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 15.380765,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 9.860337,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07142857142857142,
+    "latency": 8.201814,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 13.665053,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.107709,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.173523,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.983493,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 31.936256,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.037037037037037035,
+    "latency": 16.907498,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.981994,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 25.775299,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.25925925925925924,
+    "latency": 9.664147,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19607843137254902,
+    "latency": 8.899668,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 13.090402,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 11.725826,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 18.023618,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07692307692307693,
+    "latency": 14.814201,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.086729,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 12.20321,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03333333333333333,
+    "latency": 19.910985,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 8.359705,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 9.347616,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 17.780198,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.11764705882352941,
+    "latency": 8.599638,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 23.012196,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.3333333333333333,
+    "latency": 6.754984,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 9.833811,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.280039,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 14.622428,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.843346,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.23333333333333334,
+    "latency": 7.040219,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2857142857142857,
+    "latency": 17.008398,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 15.440212,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 18.984878,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 7.766325,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 22.831149,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.171299,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 14.763447,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 15.462372,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.985263,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.923738,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 8.285224,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.826059,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 10.2113,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.823769,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.725917,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.017543859649122806,
+    "latency": 10.117666,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 23.02028,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 20.07398,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 8.004575,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.676082,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.527946,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 27.151234,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 28.627949,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 16.911861,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 10.26908,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 13.636338,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.880016,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 48.104706,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 36.542393,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2777777777777778,
+    "latency": 41.680253,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 12.887877,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 23.543987,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1111111111111111,
+    "latency": 8.39215,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 20.950312,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.020833333333333332,
+    "latency": 9.326293,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 14.463887,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.681052,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 10.284157,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 45.982172,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 12.009619,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 29.382488,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 22.483849,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.044444444444444446,
+    "latency": 9.891098,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.016667,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 18.888788,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 11.551675,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 9.746669,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 10.3048,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.395949,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.319232,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.13725490196078433,
+    "latency": 26.627735,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 10.234559,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 10.552476,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 21.350678,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0392156862745098,
+    "latency": 8.405608,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.022222222222222223,
+    "latency": 14.318075,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 10.695461,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 8.834084,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 9.881758,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 37.865842,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.07407407407407407,
+    "latency": 9.602168,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 13.752871,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 51.353664,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.19047619047619047,
+    "latency": 16.711824,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 16.73361,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 25.41534,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.481415,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 22.394295,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 9.340406,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 39.693351,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.5898,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 10.355704,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "score": 0.030303030303030304,
+    "latency": 15.764377,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.381822,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.802824,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 12.776018,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 16.217247,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.03508771929824561,
+    "latency": 9.357438,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.24242424242424243,
+    "latency": 27.583329,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 10.268851,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 36.87363,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.027777777777777776,
+    "latency": 16.320159,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.20833333333333334,
+    "latency": 10.038896,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 11.358194,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.757675,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 19.352047,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.09523809523809523,
+    "latency": 9.39367,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 23.862426,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.1,
+    "latency": 18.789467,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 16.75982,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.047619047619047616,
+    "latency": 7.128889,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.331367,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 6.665097,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05555555555555555,
+    "latency": 16.916937,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "score": 0.0,
+    "latency": 17.763371,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 6.7281,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.16666666666666666,
+    "latency": 6.491453,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 9.186714,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 6.425281,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.10526315789473684,
+    "latency": 8.062073,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 8.435759,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.041666666666666664,
+    "latency": 9.972764,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.641012,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0625,
+    "latency": 11.690066,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.02564102564102564,
+    "latency": 11.360233,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.05128205128205128,
+    "latency": 7.36044,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.08333333333333333,
+    "latency": 10.971203,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.12280701754385964,
+    "latency": 15.767667,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.14285714285714285,
+    "latency": 11.333728,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.606716,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "score": 0.06666666666666667,
+    "latency": 32.650123,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.018518518518518517,
+    "latency": 13.416289,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 12.260413,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 7.467987,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.2222222222222222,
+    "latency": 15.190048,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 18.93041,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 14.032557,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 9.886718,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0,
+    "latency": 13.2472,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.0196078431372549,
+    "latency": 7.868993,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "score": 0.023809523809523808,
+    "latency": 9.264706,
+    "mode": "FEW_SHOT"
+  },
+  {
+    "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n"
+  }
+]
